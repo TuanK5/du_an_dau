@@ -188,3 +188,27 @@ a{
     display: flex;
     justify-content: space-around;
 }
+/* gio hang */
+.cart-table{
+    padding: 8rem 8rem 8rem 8rem;
+}
+table{
+    width: 80rem;
+    height: 17rem;
+}
+table, td, th{
+    border: 1px solid #333;
+    border-collapse: collapse;
+    text-align: center;
+}
+.box_tuychon{
+display: flex;
+justify-content: flex-end;
+}
+.box_tuychon1{
+    background-color: black;
+    color: white;
+    height: 3rem;
+    width: 12rem;
+    margin-right: 4rem;
+}
