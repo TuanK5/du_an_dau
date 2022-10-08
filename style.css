@@ -212,3 +212,8 @@ justify-content: flex-end;
     width: 12rem;
     margin-right: 4rem;
 }
+.mua{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0.5rem;
+}
